@@ -1,21 +1,32 @@
-💰 Expense Tracker (MERN Stack)
-A simple and intuitive Expense Tracker application built using the MERN stack (MongoDB, Express.js, React, Node.js).
-It helps users record their income and expenses, categorize transactions, and monitor spending habits with real-time balance updates.
+# 💰 Expense Tracker (MERN Stack)
 
-🚀 Features
-Add, Edit, Delete Transactions – Keep track of both income and expenses.
-Categories & Filters – Organize transactions by category and filter by date.
-Real-time Balance – Automatically updates when transactions are added or removed.
-Budget Limit Alerts – Notifies the user if the set budget is exceeded.
-Responsive Design – Works on both desktop and mobile devices.
+A full-stack **Expense Tracker** application built with the **MERN stack** (MongoDB, Express.js, React, Node.js) to help users manage personal finances effectively.  
+The app allows users to record income and expenses, categorize them, track budgets, and get real-time balance updates.
 
-Planned Features:
+---
 
-Bill payment reminders.
-AI-based saving and investment suggestions using spending history.
+## 📌 Features
 
-🛠 Tech Stack
-Frontend: React, Axios, CSS
-Backend: Node.js, Express.js
-Database: MongoDB (Mongoose ODM)
-Tools: Git, GitHub, VS Code, Postman
+- **Add, Edit, Delete Transactions** – Manage both income and expenses.
+- **Categories & Filters** – Organize by category and filter by date.
+- **Real-time Balance** – Automatically calculates total income, expenses, and remaining balance.
+- **Budget Limit Alerts** – Notifies when spending exceeds the set budget.
+- **Responsive UI** – Works seamlessly on desktop and mobile.
+
+**Planned Features:**
+- Bill payment reminders.
+- AI-driven saving and investment suggestions based on spending history.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:** React, Axios, CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB (Mongoose ODM)  
+**Tools & Utilities:** Git, GitHub, VS Code, Postman  
+
+---
+
+## 📂 Project Structure
+
