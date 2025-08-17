@@ -28,5 +28,4 @@ The app allows users to record income and expenses, categorize them, track budge
 
 ---
 
-## 📂 Project Structure
 
