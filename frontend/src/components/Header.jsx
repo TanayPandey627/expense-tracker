@@ -45,7 +45,7 @@ const Header = () => {
                     sx={{ fontWeight: "bold", cursor: "pointer" }}
                     onClick={() => navigate("/dashboard")}
                 >
-                    TeamExpenseTracker
+                    Expense-Tracker
                 </Typography>
 
                 {token ? (
